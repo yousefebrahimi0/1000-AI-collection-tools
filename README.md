@@ -1136,12 +1136,13 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [wizishop](http://wizishop.com) | wizishop ecommerce solution: create your online store. | 15-day free trial - no credit card needed - access all of our features. | :white_check_mark: |
 
 **[⬆ back to index](#index)**
-## travel
+### travel
 | name | title | description | offer free version |
 |---|---|---|:---:|
 | [emma](https://www.emma.ai/) | automatically calculates and adds meeting travel time | driving time added to your calendar, automatically  | :x: |
 | [spatial](https://www.spatial.ai/) | reveal the social layer of cities | predict and influence customer behavior with the world's first real-time social media segmentation system.  | :x: |
 | [iplan](https://iplan.ai/) | iplan | your smart travel planner  | :white_check_mark: |
+| [Trav](https://trav.li/) | Trav | Create your next adventure  | :white_check_mark: |
 **[⬆ back to index](#index)**
 ### finance
 | name | title | description | offer free version |
