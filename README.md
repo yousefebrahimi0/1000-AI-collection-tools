@@ -288,6 +288,7 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 | [vlog2blog](https://vlog2blog.uwu.ai/?ref=beth0) | Instantly Convert Your YouTube Content Into Engaging Blog Articles. | Boost your SEO and brand presence. | :white_check_mark: |
 | [anyword](https://anyword.com/) | anyword | copywriting ai with predictable results | :x: |
 | [Copysmith](https://copysmith.ai/) | Copysmith | Copysmith’s AI content generator makes product description writing fast, easy and fun – are you ready for your mind to be blown? | :white_check_mark: |
+| [Teach Anything](https://www.teach-anything.com/) | Teach Anything | Teach you Anything in seconds | :white_check_mark: |
 
 
 ### Creators Toolkit
