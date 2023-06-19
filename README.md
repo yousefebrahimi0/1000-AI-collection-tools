@@ -461,6 +461,7 @@ powered by ada. | supporting better health outcomes and clinical excellence with
 | [Riffusion](http://www.riffusion.com) | Riffusion. | Stable diffusion for real-time music generation. | :white_check_mark: |
 | [Soundraw](http://soundraw.io) | Stop Searching for the Song You Need. Create It. | Royalty-free music, AI generated for you. | :white_check_mark: |
 | [Descript](https://www.descript.com/) | Descript | All-in-one video editing, as easy as a doc. | Descript is the only tool you need to write, record, transcribe, edit, collaborate, and share your videos and podcasts. | :white_check_mark: |
+| [Jamorphosia](https://www.jamorphosia.com/) | Split instruments and remove voice from any audio file. | Split the instrumental tracks of a song. Create backing tracks and remove vocals from songs. | :white_check_mark: |
 
 
 ### Organization & Automation
