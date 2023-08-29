@@ -1,4 +1,4 @@
-<div align="center">
+    <div align="center">
     <img width="150" alt="ai-picture" src="https://github.com/yousefebrahimi0/1000-AI-collection-tools/blob/main/DALL%C2%B7E-generated-picture.png" />
 <!-- ![ai-picture](https://github.com/yousefebrahimi0/1000-AI-collection-tools/blob/main/DALL%C2%B7E-generated-picture.png) -->
     <h1>1000 AI collection tools</h1>
@@ -432,6 +432,7 @@ powered by ada. | Supporting better health outcomes and clinical excellence with
 | [Resume Worded](http://resumeworded.com) | Improve Your Resume and Linkedin Profile. | Designed by top recruiters, our AI-powered platform instantly gives you tailored feedback on your resume and LinkedIn profile. Land 5x more interviews, opportunities and job offers. | :white_check_mark: |
 | [rankode](http://www.rankode.ai) | AI for Human Resources - Rankode. | Recruiters, everything you need to know about a candidate's programming skills is in their GitHub. Evaluate them automatically with Rankode to avoid expensive hiring mistakes and super boost your retention. | :grey_question: |
 | [springworks](http://www.springworks.in) | Hr Software Solutions for Growing Businesses. | Springworks builds human resources software solutions to solve challenges in recruitment, background verification & employee engagement with Blockchain and AI. | :white_check_mark: |
+| [Kolega](https://kolega.ai/sign-up) | AI powered employees for Slack and Teams | mplify your capabilities, efficiency and capacity with an AI worker buddy for your key staff | :white_check_mark: |
 
 
 ### Legal
