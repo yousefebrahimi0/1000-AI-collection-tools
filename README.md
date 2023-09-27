@@ -219,6 +219,7 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 | [Vacay](https://usevacay.com/chatbot) | Vacation Chat Agent. | This AI-Assistant can design a custom trip, give you inspiration on where to go, and even generate local recommendations for hotels, restaurants, and attractions. | :white_check_mark: |
 | [ChefGPT](https://www.chefgpt.xyz/) | ChefGPT: Never Worry About What's for Dinner Again! | Say goodbye to boring meals, with AI-powered, recipe recommendations, meal plans creation and more... | :white_check_mark: |
 | [MindMeld](https://www.mindmeld.com/) | MindMeld | Conversational AI platform for deep-domain voice interfaces and chatbots | :white_check_mark: |
+| [Broken Bear](http://www.brokenbear.com) | Vent for free, online, and anonymously. | Broken Bear is the AI Teddy Bear that loves your broken self. He is a source of comfort that you can vent to or chat with! | :white_check_mark: |
 
 
 
