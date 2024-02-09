@@ -344,6 +344,7 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 | [Warmer.Ai](http://warmer.ai) | Warmer.Ai - AI Email Writer. | Warmer uses AI email personalization to write your email outreach. Increase replies, meetings and sales with dynamic personalization. | :grey_question: |
 | [superReply](http://superreply.co) | Upgrade Your Email Game. | The Email Response Hack You've Been Waiting For - Easily send effective replies with tailored responses without writing from scratch. | :white_check_mark: |
 | [lavender](https://www.lavender.ai/) | lavender | lavender email assistant helps you get more replies in less time. | :white_check_mark: |
+| [Emilio](https://getemil.io?ref=yousefebrahimi0-1000-ai-collection-tools) | Emilio | Stop drowning in emails - Emilio prioritizes and automates your email, saving 60% of your time | :white_check_mark: |
 
 
 ### Fashion
