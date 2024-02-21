@@ -561,6 +561,7 @@ powered by ada. | Supporting better health outcomes and clinical excellence with
 ### Search Engines
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
+| [Kazimir.ai](https://kazimir.ai) | A search engine designed to search AI-generated images and videos ⭐ | The content created by AI is awesome and must be easily searchable. | :white_check_mark: |
 | [Anypod](http://www.anypod.ai) | Search Engines Built for Creators. | We make your content searchable. | :white_check_mark: |
 | [Lexii.ai](http://lexii.ai/) | Lexii.Ai. | Lexii.ai is an AI search assistant that answers questions and cites sources. | :white_check_mark: |
 | [OpenArt Photo Booth](http://openart.ai) | Discover and Generate AI Art - Openart. | Search 10M+ prompts, and generate AI Art via Stable Diffusion, DALL·E 2. | :white_check_mark: |
