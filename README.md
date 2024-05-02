@@ -294,7 +294,7 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 | [Copysmith](https://copysmith.ai/) | Copysmith | Copysmith’s AI content generator makes product description writing fast, easy and fun – are you ready for your mind to be blown? | :white_check_mark: |
 | [Jounce](https://www.jounce.ai/) | Jounce | Free AI-powered copywriting and artwork for marketers | :white_check_mark: |
 | [Tugan.ai](https://tugan.ai) | Say Goodbye To Your Copywriter And Ghostwriter | Generate Emails, Newsletters, Threads, Tweets, and Linkedin Posts That People Love To Read | :white_check_mark: |
-
+| [BacklinkGPT.com](https://www.backlinkgpt.com/) |AI-Powered Link Building Platform | BacklinkGPT.com is an AI-powered link-building platform that helps you generate personalized outreach messages for faster link building. | :white_check_mark: |
 
 ### Creators Toolkit
 | Name | Title | Description | Offer Free Version |
