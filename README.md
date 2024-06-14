@@ -722,6 +722,7 @@ TTSMaker is an online text-to-speech tool that can convert text to audio, and yo
 | [nvidia ai demos](https://www.nvidia.com/en-us/research/ai-demos/) | Nvidia ai demos | experience ai in action from nvidia research | :grey_question: |
 | [Gen-1](https://research.runwayml.com/gen1) | Gen-1: The Next Step, Forward for Generative AI | Use words and images to generate new videos out of existing ones. | :grey_question: |
 | [Shuffll](https://shuffll.com/) | Shuffll | Taking you from zero to fully produced videos | :x: |
+| [TopView.ai](http://topview.ai?via=beth0) | Topview is an online AI video editor that turns your links or media assets into viral videos in one click, empowered by Youtube & Tiktok & Facebook ads library, best editor to create, edit, and enhance videos using AI. | :white_check_mark: |
 
 
 ### Writing Assistant
