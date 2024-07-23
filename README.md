@@ -41,6 +41,7 @@
 ### Architecture & Interior Design
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
+| [Renovate AI](https://renovateai.app) | Your copilot for home design. | RenovateAI technology makes it cheaper, faster,  easier and smarter to visualize and plan your home interior and exterior renovation. | ✅ |
 | [AI Room Planner](http://airoomplanner.com) | Interior Design by AI. | Get hundreds of interior design ideas for your room - free with no limit. | :grey_question: |
 | [AI TWO](http://aitwo.co/) | Aitwo.Co - The AI-Powered All-in-One Design Platform. | . | :grey_question: |
 | [Dimensions](http://www.dimensions.ink) | Dimensions - Rapidly Create Visual Concepts With AI. | Imagine being able to create beautiful interior designs with ease – that&apos;s what Dimensions offers. | :white_check_mark: |
