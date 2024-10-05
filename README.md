@@ -489,6 +489,7 @@ powered by ada. | Supporting better health outcomes and clinical excellence with
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [AI Image Enlarger](http://imglarger.com) | AI Image Enlarger - Enlarge Image Without Losing Quality!. | . | :grey_question: |
+| [Magic Hour](https://magichour.ai/) | Magic Hour | Magic Hour is a platform for making AI-generated videos with just a few clicks. | :white_check_mark: |
 | [Kaiber](https://www.kaiber.ai/) | Kaiber | Transform your ideas into the visual stories of your dreams with our state-of-the-art AI generation engine. | :white_check_mark: |
 | [AVC AI](http://avc.ai) | Online AI Image Enhancer That Improves Photo Quality by Upscaling, Denoising, Restoring, Face Refinement, and More. | . | :grey_question: |
 | [Claid.ai](http://claid.ai) | Claid.Ai: Automated Photo Enhancer for Ugc. Web, Mobile & Printing. | AI software to enlarge images with no quality loss, correct colors, increase resolution, retouch product photos and edit UGC automatically. | :grey_question: |
