@@ -293,6 +293,7 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 | [anyword](https://anyword.com/) | anyword | copywriting ai with predictable results | :x: |
 | [Copysmith](https://copysmith.ai/) | Copysmith | Copysmith’s AI content generator makes product description writing fast, easy and fun – are you ready for your mind to be blown? | :white_check_mark: |
 | [Jounce](https://www.jounce.ai/) | Jounce | Free AI-powered copywriting and artwork for marketers | :white_check_mark: |
+| [BacklinkGPT.com](https://www.backlinkgpt.com/) |AI-Powered Link Building Platform | BacklinkGPT.com is an AI-powered link-building platform that helps you generate personalized outreach messages for faster link building. | :x: |
 | [Tugan.ai](https://tugan.ai) | Say Goodbye To Your Copywriter And Ghostwriter | Generate Emails, Newsletters, Threads, Tweets, and Linkedin Posts That People Love To Read | :white_check_mark: |
 
 
@@ -722,6 +723,7 @@ TTSMaker is an online text-to-speech tool that can convert text to audio, and yo
 | [adobe sensei](https://www.adobe.com/sensei/creative-cloud-artificial-intelligence.html) | adobe sensei | you were hired to create, not to spend hours on end searching for stock photos or tagging videos. with adobe sensei taking care of everything from organizing, editing, and producing, you can focus your energy on what you actually love — ideating, experimenting, and creating. | :grey_question: |
 | [nvidia ai demos](https://www.nvidia.com/en-us/research/ai-demos/) | Nvidia ai demos | experience ai in action from nvidia research | :grey_question: |
 | [Gen-1](https://research.runwayml.com/gen1) | Gen-1: The Next Step, Forward for Generative AI | Use words and images to generate new videos out of existing ones. | :grey_question: |
+| [TopView.ai](https://topview.ai) | Topview is an AI video editor that turns your links into viral videos in one click. Best AI Video Editor for creating, editing, and enhancing videos.| :white_check_mark: |
 | [Shuffll](https://shuffll.com/) | Shuffll | Taking you from zero to fully produced videos | :x: |
 
 
