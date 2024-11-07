@@ -54,6 +54,7 @@
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
 | [AI Art Latitude](http://ai-art.latitude.io) | AI Art. | . | :grey_question: |
+| [AI Boost](http://boost.pictures) | AI Boost: all-in-one service for creating and editing images with AI | Upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos. | :white_check_mark: |
 | [AI Background Generator by PhotoRoom](http://www.photoroom.com) | Photoroom - Remove Background and Create Product Pictures. | Create product and portrait pictures using only your phone. Remove background, change background and showcase products. | :grey_question: |
 | [AI Picasso](http://aipicasso.studio.site) | AI Picasso. | Create Amazing artwork with Powerful AI! It generates an image from the text you enter, just as you expect using an AI called Stable Diffusion. Let's enjoy making art with AI!. | :grey_question: |
 | [AI Wall Decor](http://aiwalldecor.com) | Hydrogen. | Use Stable Diffusion to generate high quality framed art, without lifting a brush. Simply type what you want your painting to look like, generate your art, choose your favorite frame, and ship it. | :grey_question: |
