@@ -314,11 +314,11 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 ### Customer Support
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
-| [Twig](https://www.twig.so/) | Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7. | :grey_question: |
 | [AI Answers by Cohere](http://cohere.io) | Conversational AI Platform for Customer Support - Cohere. | AI-powered support assistance that finds answers from previous tickets. | :grey_question: |
 | [Bahasa](http://www.bahasa.ai) | Bahasa.Ai - Chatbot Which Serves Customers Fully. | Automation that helps your business serve millions of happy customers quickly powered by AI specially built for Bahasa Indonesia. | :grey_question: |
 | [EddyAI](http://eddyai.com) | Sell and Support Your Customers Automatically 24/7. | Increase Sales and Reduce Support Costs. | :white_check_mark: |
 | [ResolveAI](http://resolveai.co) | Resolveai. | Our AI chatbots are designed to understand customer issues and provide tailored, accurate responses in real time. | :grey_question: |
+| [Twig](https://www.twig.so/) | Built by CX Professionals | Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7. | :grey_question: |
 
 
 ### Education & Learning
