@@ -167,6 +167,7 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 | [krisp](http://krisp.ai) | world’s #1 noise cancelling app - krisp. | krisp’s ai removes background voices, noises and echoes from all your calls, giving you peace of mind. | :white_check_mark: |
 | [phind](https://phind.com/) | the ai search engine for developers. | . | :white_check_mark: |
 **[⬆ back to index](#index)**
+| [YobiYoba](https://www.yobiyoba.com/en/) | Advanced Speech-to-Text Solutions | Yobiyoba provides advanced speech-to-text services with an API for transcription, real-time processing, alignment, and lexicon enhancement, plus a powerful editor—includes 1 free hour of transcription upon signup. | :x: |
 
 ### Avatars
 | Name | Title | Description | Offer Free Version |
