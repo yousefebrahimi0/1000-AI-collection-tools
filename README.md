@@ -609,6 +609,7 @@ powered by ada. | Supporting better health outcomes and clinical excellence with
 ### Text
 | Name | Title | Description | Offer Free Version |
 |---|---|---|:---:|
+| [AFFiNE AI](https://www.affine.pro/AI) | AFFiNE AI - Multimodality AI with Canvas | AFFiNE AI is a multimodality AI that enhances creativity on an edgeless canvas, allowing users to create and collaborate using diverse content formats. With its AI capabilities, it transforms ideas into structured presentations and mind maps while prioritizing user privacy through a local-first approach. | :white_check_mark: |
 | [Bookclub](http://www.bookclub.ai) | Bookclub.Ai - Meet Your Next Book. | . | :grey_question: |
 | [eContext](https://www.econtext.ai/) |  eContext: In real time, eContext classifies any text data | eContext, the world's largest semantic text classification engine, classifies content instantly. Find out how to structure data from any text source. | :white_check_mark: |
 | [Lore Ai](https://www.lore.ai/) | Lore Ai: Intelligent document analysis | Automate collection of company documents, news & unstructured data · Interactive dashboards & visualizations expose relationships & trends · | :grey_question: |
