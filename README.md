@@ -666,6 +666,7 @@ powered by ada. | Supporting better health outcomes and clinical excellence with
 | [speakingclubai](http://speakingclubai.com) | speaking club ai. | welcome to speaking club ai - the ultimate language learning tool for anyone looking to    improve their speaking skills in a foreign language. with speaking club ai, you can practice    your conversation skills with a personalized ai language partner anytime, anywhere. | :grey_question: |
 | [Snazzy AI](https://snazzy.ai/) | Snazzy AI | The easiest way to create content for your brand with AI copywriting. Let us do the work for you! Free, fast and quality. | :white_check_mark: |
 | [Snazzy AI](https://subtxt.app/) | Subtxt | Subtxt is the always ready, massively intelligent writing partner you've always dreamed of. With its predictive narrative framework & cutting-edge AI technology, Subtxt helps you finish those stories that matter most to you. | :grey_question: |
+| [AFFiNE AI](https://www.affine.pro/) | AFFiNE AI - Multimodality AI with Canvas | AFFiNE AI is a multimodality AI that enhances creativity on an edgeless canvas, allowing users to create and collaborate using diverse content formats. With its AI capabilities, it transforms ideas into structured presentations and mind maps while prioritizing user privacy through a local-first approach. | :white_check_mark: |
 
 **[⬆ back to index](#index)**
 
