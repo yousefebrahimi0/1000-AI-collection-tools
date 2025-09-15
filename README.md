@@ -582,6 +582,7 @@ powered by ada. | Supporting better health outcomes and clinical excellence with
 | [ChatBA](https://www.chatba.com/) | Chatbcg: Generative AI for Slides. | Instantly create slide decks using ChatBCG. | :grey_question: |
 | [Durable](http://durable.co) | Durable: AI Website Builder and Service Business Software. | . | :grey_question: |
 | [Magician](http://magician.design) | Magician for Figma. | A magical design tool for Figma powered by AI. | :grey_question: |
+| [new.website](https://new.website) | AI-Powered Website Builder and Business Platform. | The fastest way to create a beautiful website in minutes. AI-powered site creation, built-in forms with email notifications, analytics dashboard, SEO optimization, media management, scalable hosting, and team collaboration. A complete business-in-a-box platform to manage your online presence. | :white_check_mark: |
 | [Piggy](https://piggy.to/magic) | Mobile Content Creator. | Creating stunning content on your phone just got easy. | :white_check_mark: |
 | [SlidesAI](https://www.slidesai.io/) | Create Presentation Slides With AI in Seconds. | Say goodbye to tedious, manual slide creation. Let the AI write the outline and presentation content for you. With our tool, you can easily create professional, engaging slides from any text in no time. | :white_check_mark: |
 | [Tome](http://beta.tome.app) | Generative Storytelling Has Arrived. | Unlock your best work with Tome's AI-powered storytelling format. | :white_check_mark: |
