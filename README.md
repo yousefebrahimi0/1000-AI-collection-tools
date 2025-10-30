@@ -251,6 +251,7 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 | [Text2SQL](http://www.text2sql.ai/) | Text2Sql.Ai - Generate SQL Queries With AI for Free!. | . | :white_check_mark: |
 | [Whatthediff](http://whatthediff.ai) | What-the-Diff – AI-Powered Code Review Assistant. | The AI-powered GitHub app that explains the changes within your pull requests in plain English. | :grey_question: |
 | [aidev.codes](https://aidev.codes/) | AI Dev Codes for You. | Create simple apps and demos just by entering specifications — a new type of AI prompt engineering. | :white_check_mark: |
+| [Capacity.so](https://capacity.so/) | Create fullstack applications using AI | Turn any idea into fullstack web app using AI and natural language | :white_check_mark: |
 | [keploy.io](https://keploy.io/) | Open-source API test generation and mocking tool. | Automatically converts real API calls into test cases and mocks to simplify regression testing and speed up development. | :white_check_mark: |
 
 
@@ -310,6 +311,7 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 | [Hotpot](http://hotpot.ai) | Hotpot.Ai. | Hotpot.ai helps you create amazing graphics, pictures, and text. AI tools like AI Art Generator spark creativity and automate drudgery while easy-to-edit templates empower anyone to create device mockups, social media posts, marketing images, app icons, and other work graphics. | :grey_question: |
 | [Lightricks](http://www.lightricks.com) | Home to Creators Everywhere. | Experience the magic of creating with the best tools and services for creators: Facetune 2, Videoleap, Linkinbio & Photoleap. Check it out now! | :grey_question: |
 | [Media.io](https://www.media.io/?ref=beth0) | Online Video, Audio, Image Creativity Platform Powered by AI. | Simplicity. Diversity. Flexibility. | :white_check_mark: |
+| [Portraitlabs.ai](https://portraitlabs.ai) | Take photos of yourself using AI | Upload a few selfies and generate infinites photos of yourself with AI | :white_check_mark: |
 | [Runway](http://runwayml.com) | Runway - Next-Generation Creation Suite - Everything You Need to Make Content, Fast. | Discover advanced video editing capabilities to take your creations to the next level. | :white_check_mark: |
 
 **[⬆ back to index](#index)**
