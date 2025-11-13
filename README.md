@@ -521,7 +521,7 @@ powered by ada. | Supporting better health outcomes and clinical excellence with
 | [jpghd](http://jpghd.com) | JPGHD - Lossless Restoration of Old Photos With AI. | Using 2022 cutting-edge AI models for lossless restoration of old photos (supports old, scratched photo restoration, colorization, and Magic Photo). | :grey_question: |
 | [paintbytext](https://paintbytext.chat) | Paint by Text. | paintbytext - Edit your photos using written instructions, with the help of an AI. | :white_check_mark: |
 | [InstructPix2Pix](https://www.timothybrooks.com/instruct-pix2pix) | We propose a method for editing images from human instructions: given an input image and a written instruction that tells the model what to do, our model follows these instructions to edit the image. To obtain training data for this problem, we combine the knowledge of two large pre-trained models to generate a large dataset of image editing examples. | . | :white_check_mark: |
-
+| [Banana Thumbnail](https://bananathumbnail.com) | AI-Powered YouTube Thumbnail Generator | Generate viral YouTube thumbnails in 30 seconds with 5 CTR-optimized themes, aspect ratio reimagining, and professional photo generation. | :white_check_mark: |
 
 ### Plugins & Extensions
 | Name | Title | Description | Offer Free Version |
