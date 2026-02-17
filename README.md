@@ -299,6 +299,7 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 | [Jounce](https://www.jounce.ai/) | Jounce | Free AI-powered copywriting and artwork for marketers | :white_check_mark: |
 | [BacklinkGPT.com](https://www.backlinkgpt.com/) |AI-Powered Link Building Platform | BacklinkGPT.com is an AI-powered link-building platform that helps you generate personalized outreach messages for faster link building. | :x: |
 | [Tugan.ai](https://tugan.ai) | Say Goodbye To Your Copywriter And Ghostwriter | Generate Emails, Newsletters, Threads, Tweets, and Linkedin Posts That People Love To Read | :white_check_mark: |
+| [contentSERP](https://contentserp.in) | SERP Analysis & AI Content for India | Generate SEO-optimized content by analyzing top Google results for your target keywords. Built for Indian markets. | :white_check_mark: |
 
 
 ### Creators Toolkit
@@ -1191,6 +1192,7 @@ TTSMaker is an online text-to-speech tool that can convert text to audio, and yo
 | [openai gym](https://github.com/hackthemarket/gym-trading) | openai gym environment for trading | environment for reinforcement-learning algorithmic trading models. | :white_check_mark: |
 | [sgx-full-orderbook-tick-data-trading-strategy](https://github.com/rorysroes/sgx-full-orderbook-tick-data-trading-strategy) | modeling high-frequency limit order book dynamics using machine learning |  providing the solutions for high-frequency trading (hft) strategies using data science approaches (machine learning) on full order book tick data. | :white_check_mark: |
 | [quant-trading](https://github.com/je-suis-tm/quant-trading) | python quantitative trading strategies. |  python quantitative trading strategies including vix calculator, pattern recognition, commodity trading advisor, Monte Carlo, options straddle, shooting star, London breakout, heikin-ashi, pair trading, rsi, Bollinger bands, parabolic sar, dual thrust, awesome, macd  | :white_check_mark: |
+| [BizPlan AI Pro](https://bizplanaipro.in) | AI Business Plan Generator, Business Idea Analysis for Indian Entrepreneurs | Create investor-ready business plans in minutes with AI trained on Indian market data, GST regulations, and Startup India guidelines. INR projections included. | :white_check_mark: |
 
 
 ### Detecting AI
