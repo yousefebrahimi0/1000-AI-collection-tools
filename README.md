@@ -602,6 +602,7 @@ powered by ada. | Supporting better health outcomes and clinical excellence with
 | [ReContent.AI](http://recontent.ai/) | Transform Your Newsletter, Blog Post, Into Twitter Content With Recontent.Ai. | . | :white_check_mark: |
 | [Roast](https://roast.dating) | Dating App Profile AI Analysis - Photoshoot AI Generator. | ROAST helps people 10x their matches on dating apps like Tinder, Bumble, and Hinge. Powered by AI, it provides offers data-driven dating insights and expert advice to increase the quantity and quality of their matches. | :grey_question: |
 | [TweePT3](http://tweept3.com) | Tweept3 - Twitter-Integrated, Gpt3 Powered Tweet Writer. | . | :grey_question: |
+| [ViralReplies](https://viralreplies.com/) | AI X (Twitter) Reply Generator | Generate viral replies in your unique voice to 3x your engagement | :white_check_mark: |
 | [Tweethunter](http://tweethunter.io) | Tweet Hunter - Get More Twitter Followers Â Tweets, Threads, Scheduler, Analytics. | Get sales, growth and new networks. Faster than what you're currently trying. | :grey_question: |
 | [Tweetspear](http://www.tweetspear.com) | Tweetspear - Boost Your Twitter Engagement. | Revolutionize Your Twitter Engagement with  AI-Powered Suggested Replies . | :grey_question: |
 
