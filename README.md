@@ -48,6 +48,7 @@
 | [Image Computer](http://image.computer) | Generate Your Next Interior Design / Paniting / Fashion Collection / Concept Art. | Use our powerful AI technology to generate any type of image you can think of. In a matter of seconds. | :x: |
 | [Interior AI](http://interiorai.com) | Interior Ai: Interior Design Ideas Inspiration, and Virtual Staging App Using Artifical Intelligence. | Get interior design ideas using Artificial Intelligence and virtually stage interiors for real estate listings with different interior styles. | :white_check_mark: |
 | [Makeit.ai](http://www.maket.ai) | Generative Design - Architecture Design Software - Maket. | Our generative design software enables architects, builders & developers to quickly generate thousands of architectural plans instantly. | :grey_question: |
+| [LandscapioAI](https://www.landscapioai.com/) | AI landscape design generator for outdoor spaces. | Create landscape design concepts and visual ideas from photos using AI for yards, gardens, patios, and outdoor spaces. | :grey_question: |
 
 
 ### Art & Image Generator
