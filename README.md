@@ -107,6 +107,7 @@
 | [Imaginator](http://imaginator.developer-service.io) | Imaginator - Turn Your Text Into Images. | Imagine being able to see your thoughts come alive in front of you. No longer just a thought, an image now becomes the reality. | :grey_question: |
 | [Imagine Me](http://imagineme.app) | Home - Imagine Me. | Imagine Me is the first online platform that lets you generate stunning AI art of yourself, with just a simple line of text. | :grey_question: |
 | [Imajinn AI Children's Book](http://imajinn.ai) | Imajinn AI. | Visualization re-imajinned with fine-tuned AI. Generate profile pictures, product images, brands and styles limited only by your imagination!. | :grey_question: |
+| [InkLore](https://inklore.io) | AI Tattoo Design Generator - InkLore. | Describe your tattoo idea and get custom tattoo designs in seconds across styles like traditional, fine-line, blackletter, and lettering. | :white_check_mark: |
 | [iwear.art](http://iwear.art) | i wear art. | create unique art with ai, and wear it on your apparel. | :grey_question: |
 | [Kiri.art](http://kiri.art) | Kiri.Art. | Diffusion Image Generation. | :grey_question: |
 | [Krea](http://updates.krea.ai) | AI Canvas. | Introducing the AI Canvas, by Krea. | :grey_question: |
