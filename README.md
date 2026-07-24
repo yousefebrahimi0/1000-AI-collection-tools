@@ -359,6 +359,7 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 | [FashionAdvisorAI](http://www.fashionadvisorai.com) | Fashionadvisor.Ai - Ask Questions & Get Answer'S From Fashionadvisor.Ai. | FashionAdvisor is an AI based on GPT3 which will answer all your fashion-related questions instantly for free. | :grey_question: |
 | [Visualhound](http://visualhound.com) | Visualhound - Prototype Your Fashion Design Ideas With AI. | Visualize your product designs before going to production. Create realistic-looking product images to feed your mood boards and boost your design process. | :grey_question: |
 | [Resleeve](https://resleeve.ai/) | Unleash Fashion’s Future with Resleeve AI | Instantly Generate Realistic Fashion Designs and Photoshoots with Resleeve’s AI Technology | :white_check_mark: |
+| [STIL.AI](https://stil.gracestack.se) | STIL.AI - AI Fashion Design Generator | AI-powered fashion design from text. Describe a garment and get a professional AI-generated design instantly. Free tier with generator tool. | :white_check_mark: |
 
 
 
