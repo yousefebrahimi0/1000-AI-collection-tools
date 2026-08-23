@@ -154,7 +154,7 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
  | :white_check_mark: |
 | [Human Generator](https://generated.photos/) | Create hyperrealistic full-body photos of people in real-time | Created from scratch by AI, Generated Photos are perfect for ads, design, marketing, research, and machine learning  | :white_check_mark: |
 | [Weshop](https://www.weshop.ai/) | Weshop | 10x Model & Product Photos with AI Studio, Instantly generate high-quality images at fractional costs  | :white_check_mark: |
-
+| [SeamlessCanvas](https://seamlesscanvas.com/) | AI Seamless Pattern and Tileable Texture Generator | Generate seamless patterns and tileable textures from text prompts or uploaded images for wallpapers, backgrounds, textile designs, packaging visuals, and creative assets. | :white_check_mark: |
 
 
 ### audio editing
