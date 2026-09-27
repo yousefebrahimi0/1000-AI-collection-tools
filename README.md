@@ -156,6 +156,7 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 | [Human Generator](https://generated.photos/) | Create hyperrealistic full-body photos of people in real-time | Created from scratch by AI, Generated Photos are perfect for ads, design, marketing, research, and machine learning  | :white_check_mark: |
 | [Weshop](https://www.weshop.ai/) | Weshop | 10x Model & Product Photos with AI Studio, Instantly generate high-quality images at fractional costs  | :white_check_mark: |
 | [SeamlessCanvas](https://seamlesscanvas.com/) | AI Seamless Pattern and Tileable Texture Generator | Generate seamless patterns and tileable textures from text prompts or uploaded images for wallpapers, backgrounds, textile designs, packaging visuals, and creative assets. | :white_check_mark: |
+| [kdpbook.io](https://kdpbook.io) | kdpbook.io - AI Book Studio for Amazon KDP | Describe a book in a chat and get a KDP-ready interior PDF, full-wrap cover PDF and Kindle eBook. Writes, illustrates and typesets picture books, coloring books, comics, journals and novels, with consistent characters across illustrations. | :white_check_mark: |
 
 
 ### audio editing
