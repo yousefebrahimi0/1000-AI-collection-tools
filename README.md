@@ -734,6 +734,7 @@ TTSMaker is an online text-to-speech tool that can convert text to audio, and yo
 | [Gen-1](https://research.runwayml.com/gen1) | Gen-1: The Next Step, Forward for Generative AI | Use words and images to generate new videos out of existing ones. | :grey_question: |
 | [TopView.ai](https://topview.ai) | Topview is an AI video editor that turns your links into viral videos in one click. Best AI Video Editor for creating, editing, and enhancing videos.| :white_check_mark: |
 | [Shuffll](https://shuffll.com/) | Shuffll | Taking you from zero to fully produced videos | :x: |
+| [Zombie Couple Video](https://zombiehugvideo.com) | Zombie Couple Video From Two Photos | Upload two photos and get a 15-second 720p zombie couple video with audio. Paid: $6.90 per video or $24.90 for 5. | :x: |
 
 
 ### Writing Assistant
