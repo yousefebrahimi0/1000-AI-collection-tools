@@ -710,6 +710,7 @@ TTSMaker is an online text-to-speech tool that can convert text to audio, and yo
 | [TranslateVideo](http://www.translate.video) | Translate.Video. | . | :grey_question: |
 | [Voicetapp](http://voicetapp.com) | Voicetapp - Speech to Text Transcription. | Get accurate transcriptions for your AUDIO & VIDEO with the latest speech rocognition technology. | :grey_question: |
 | [Deepgram](https://deepgram.com/) | Voicetapp - Transcribe real-world audio with an API call.  | Unlock conversational intelligence with transcription and context on the world’s best speech AI platform. Easy to integrate, simple to scale. | :white_check_mark: |
+| [Transcribe Video: To The Text](https://video2text.ttt.so/) | Convert Video, Audio and YouTube Links to Text on iPhone | iPhone app that transcribes video and audio files, YouTube or Vimeo links and live voice recordings, with speaker labels, automatic language detection, a one-tap summary and TXT/DOCX export. | :white_check_mark: |
 
 
 ### Video
