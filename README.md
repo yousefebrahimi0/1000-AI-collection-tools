@@ -249,6 +249,7 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 | [TLDR - Jetbrains IDE Plugin](http://tldrdev.ai) | TLDR – Explain Code in Plain English. | TLDR is an IDE plugin that leverages AI to explain code in plain English. | :grey_question: |
 | [Tabnine](http://www.tabnine.com) | AI Assistant for Software Developers - Tabnine. | Whether you&apos;re part of a team, or a developer working on your own, Tabnine will help you write code faster – all in your favorite IDE. | :grey_question: |
 | [Tensai](http://airtable.com/shrhYf24UkDMr2gPl) | Tensai - Conversational Ui for Your Codebase. | . | :white_check_mark: |
+| [Denpex](https://denpex.com/) | GPU Log Diagnostics for Training and Inference Failures. | Investigate CUDA, PyTorch, NCCL, and vLLM failure logs via web or free local VS Code extension. | :white_check_mark: |
 | [Text2SQL](http://www.text2sql.ai/) | Text2Sql.Ai - Generate SQL Queries With AI for Free!. | . | :white_check_mark: |
 | [Whatthediff](http://whatthediff.ai) | What-the-Diff – AI-Powered Code Review Assistant. | The AI-powered GitHub app that explains the changes within your pull requests in plain English. | :grey_question: |
 | [aidev.codes](https://aidev.codes/) | AI Dev Codes for You. | Create simple apps and demos just by entering specifications — a new type of AI prompt engineering. | :white_check_mark: |
