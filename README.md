@@ -19,7 +19,8 @@
 | 📠 [Content Generation & SEO](#content-generation--seo)             | 🧰 [Creators Toolkit](#creators-toolkit)                  | 👨‍💻 [Customer Support](#customer-support)               |
 | 📧 [Email Assistant](#email-assistant)                              | 👩‍🎤 [Fashion](#fashion)                                 | 🤪 [Fun](#fun)                                            |
 | 🎮 [Gaming](#gaming)                                                | 🎁 [Gift Ideas](#gift-ideas)                              | 👩‍⚕️ [Healthcare](#healthcare)                           |
-| 👩‍💼 [Human Resources & Resume](#human-resources--resume)          | 👩‍⚖️ [Legal](#legal)                                     | ⚜️ [Logo Generator](#logo-generator)                      |
+| 👩‍💼 [Human Resources & Resume](#human-resources--resume)          | 👩‍⚖️ [Legal](#legal)             206
+| ⚜️ [Logo Generator](#logo-generator)                      |
 | 🎼 [Music](#music)                                                  | 📸 [Photo & Image Editing](#photo--image-editing)         | 🔌 [Plugins & Extensions](#plugins--extensions)           |
 | 🗳 [Reviews & Recommendations](#reviews--recommendations)           | 💰 [Sales & Marketing](#sales--marketing)                 | 🔍 [Search Engines](#search-engines)                      |
 | 🕸 [Slides & Web Design](#slides--web-design)                       | 📢 [Speech](#speech)                                      | 📝 [Text](#text)                                          |
@@ -204,6 +205,8 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 | [Tryitonai](http://www.tryitonai.com) | Stunning Professional Headshots & Portraits - Try It on AI. | Get professional studio quality headshots generated in less than 24hrs! Perfect for LinkedIn, social, team and dating photos. | :grey_question: |
 | [xpression camera 2.0](http://xpressioncamera.com) | Xpression Camera. | Become anyone on Zoom, Twitch, or any streaming video. | :grey_question: |
 | [pixificial](http://www.pixificial.com) | pixificial: create your ai avatars, ai profiles for free. | create your ai avatars, ai profiles for free. | :white_check_mark: |
+| [PicYep](https://picyep.com) | AI Headshots, Family Photos, and Pet Portraits | Realistic AI headshots, family photos, and pet portraits from a prompt or a reference photo, with editing and short video tools. | :white_check_mark: |
+
 
 
 ### Chat Bot
