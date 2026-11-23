@@ -735,6 +735,7 @@ TTSMaker is an online text-to-speech tool that can convert text to audio, and yo
 | [TopView.ai](https://topview.ai) | Topview is an AI video editor that turns your links into viral videos in one click. Best AI Video Editor for creating, editing, and enhancing videos.| :white_check_mark: |
 | [Shuffll](https://shuffll.com/) | Shuffll | Taking you from zero to fully produced videos | :x: |
 
+| [Kavel](https://www.kavel.ai/) | Free 4K AI Video & Image Generator | Kavel is a free AI video generator and AI image generator — 4K clips with sound, and images you can run without an account or a card. | :heavy_check_mark: |
 
 ### Writing Assistant
 | Name | Title | Description | Offer Free Version |
