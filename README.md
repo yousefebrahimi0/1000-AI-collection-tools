@@ -565,6 +565,8 @@ powered by ada. | Supporting better health outcomes and clinical excellence with
 | [Filtpod](https://filtpod.com/engage-ai/) | Filtpod | Empower Introverts, SMB Owners, and BDMs with AI in building relationships on LinkedIn  | :white_check_mark: |
 | [Howler](https://www.howler.media/) | Howler | Use Howler to run automated PR campaigns to relevant journalists in your niche  | :x: |
 
+| [ContHunt](https://conthunt.app) | AI Short-Form Video Research | Search and analyze short-form videos across TikTok, Instagram Reels and YouTube Shorts. | :grey_question: |
+
 **[⬆ back to index](#index)**
 
 ### Search Engines
