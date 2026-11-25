@@ -1168,6 +1168,7 @@ TTSMaker is an online text-to-speech tool that can convert text to audio, and yo
 | [Aleph Alpha](https://www.aleph-alpha.com/) | Aleph Alpha | Pioneering sovereign, European AI technology to transform human-machine interaction that can find solutions for the challenges of tomorrow. | :grey_question: |
 | [Lobe](https://www.lobe.ai/) | Lobe | Lobe helps you train machine learning models with a free, easy-to-use tool. | :grey_question: |
 | [Siwalu Software](https://siwalusoftware.com/) | Siwalu Software | Siwalu develops AI-based image recognition. Our apps are a smart mobile solution to better understand animals and to learn about the diversity of nature. | :white_check_mark: |
+| [Greenly Garden](https://greenly.garden) | AI Gardener for Plant ID, Disease Diagnosis and Season Planning | Identifies plants and diseases from a photo and builds a sowing-to-harvest calendar from local frost dates. Android, offline reminders. | :white_check_mark: |
 
 **[⬆ back to index](#index)**
 
