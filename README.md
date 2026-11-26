@@ -378,6 +378,7 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 | [Silly Times](http://www.elbo.ai) | Asimple Drawing App Using AI. | Have a fun time drawing and see what silly things we make from your drawing.  Magic is just a button press away! | :white_check_mark: |
 | [StoriesForKids](http://www.storiesforkids.ai) | Storiesforkids.Ai: Personalized Kid's Books Using AI. | Turn real-life situations into fun stories & illustrations in seconds. | :grey_question: |
 | [TextStyler](http://www.textstyler.org) | Re-Write Anything in Fun Styles, Using AI. | . | :grey_question: |
+| [Face Rating Test](https://faceratingtest.com/) | Free Attractiveness Test From One Selfie | Measures facial geometry in your browser: a score out of 100, five part scores, symmetry and canthal tilt. The free test keeps your photo on your device; an optional written report costs $14.99 once. | :white_check_mark: |
 
 **[⬆ back to index](#index)**
 
